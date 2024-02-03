@@ -7,6 +7,7 @@
 🎶 I play the drums, I like listening to music, and I've recently started collecting records.  
 🪓 I like playing video games, and my recent favorite is God of War Ragnarok.  
 🔗 Check out my [personal website](https://www.zenginhasanberk.com) and [LinkedIn account](https://www.linkedin.com/in/zenginhasanberk).  
+📧 You can reach me at [hbzengin@umich.edu](mailto:hbzengin@umich.edu).  
 
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zenginhasanberk)  

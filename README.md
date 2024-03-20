@@ -2,7 +2,7 @@
 
 🖊️ I'm a junior at the University of Michigan double majoring in computer science and economics.  
 📖 I'm currently learning about physics simulations and iOS programming.  
-📚 I've taken courses on Web Systems, Database Management Systems, Computer Organization, and Artificial Intelligence.  
+📚 I've taken courses on Web Systems, Database Management Systems, Computer Organization, and Mobile App Development.   
 💼 I'm currently looking for a Summer 2024 internship.  
 🎶 I play the drums, I like listening to music, and I've recently started collecting records.  
 🪓 I like playing video games, and my recent favorite is God of War Ragnarok.  

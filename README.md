@@ -1,7 +1,7 @@
 # Hello, I'm Hasan Berk Zengin 👋
 
 🖊️ I'm a senior at the University of Michigan double majoring in computer science and economics.  
-📖 I'm currently working on projects involving Go, TypeScript and Python, but my favorite language is C++.
+📖 I'm currently working on projects involving Go, TypeScript and Python, but my favorite language is C++.  
 📚 I've taken courses on Web Systems, Database Management Systems, Computer Organization, and Operating Systems.   
 🎶 I play the drums, I like listening to music, and I've recently started collecting records.  
 🪓 I like playing video games, and I am currently trying to get better at Elden Ring.  

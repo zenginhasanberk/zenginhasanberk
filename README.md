@@ -1,7 +1,7 @@
 # Hello, I'm Hasan Zengin 👋
 
 🖊️ I'm a senior at the University of Michigan double majoring in computer science and honors economics.  
-📖 I'm currently working on projects involving Go, TypeScript, and C++.
+📖 I'm currently working on projects involving Go, TypeScript, and C++.  
 📚 I've taken courses on Web Systems, Database Management Systems, Operating Systems, and Distributed Systems.  
 🎶 I play the drums, I like listening to music, and I've recently started collecting records.  
 🪓 I like playing video games, and I am currently playing Elden Ring.  

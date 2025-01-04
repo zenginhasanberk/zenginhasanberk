@@ -5,7 +5,7 @@
 📧 You can reach me at [hbzengin@umich.edu](mailto:hbzengin@umich.edu).  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zenginhasanberk) [![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?logo=About.me&logoColor=white)](https://zenginhasanberk.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zenginhasanberk) [![Website](https://img.shields.io/badge/Personal%20Website-000000?logo=About.me&logoColor=white)](https://zenginhasanberk.com/)
 
 # 💻 Tech Stack:  
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 

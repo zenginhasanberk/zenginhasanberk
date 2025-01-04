@@ -1,4 +1,4 @@
-# What's up 👋
+# What's up 🎆
 
 🖊️ I'm a senior at the University of Michigan double majoring in computer science and honors economics.  
 📖 I'm currently working on projects involving TypeScript, Go, and C++.  

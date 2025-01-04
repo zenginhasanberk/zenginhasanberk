@@ -1,6 +1,6 @@
 # What's up 🎆
 
-Senior @ the University of Michigan double majoring in computer science and honors economics.  
+Senior @ the University of Michigan majoring in computer science and economics.  
 Reach me at [hbzengin@umich.edu](mailto:hbzengin@umich.edu).  
 
 ## 🌐 Socials:

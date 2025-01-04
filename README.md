@@ -1,8 +1,7 @@
 # What's up 🎆
 
-🖊️ I'm a senior at the University of Michigan double majoring in computer science and honors economics.  
-📖 I'm currently working on projects involving TypeScript, Go, and C++.  
-📧 You can reach me at [hbzengin@umich.edu](mailto:hbzengin@umich.edu).  
+Senior @ the University of Michigan double majoring in computer science and honors economics.  
+Reach me at [hbzengin@umich.edu](mailto:hbzengin@umich.edu).  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zenginhasanberk) [![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://zenginhasanberk.com/)

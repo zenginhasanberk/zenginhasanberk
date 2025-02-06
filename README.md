@@ -1,10 +1,7 @@
 # Hello
 
 Senior at the University of Michigan majoring in computer science and economics.  
-Reach me at [hbzengin@umich.edu](mailto:hbzengin@umich.edu).  
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zenginhasanberk) [![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://zenginhasanberk.com/)
+Reach me at [hbzengin@umich.edu](mailto:hbzengin@umich.edu), [LinkedIn](https://linkedin.com/in/zenginhasanberk), or [Website](https://zenginhasanberk.com/)
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 

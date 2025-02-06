@@ -1,4 +1,4 @@
-# What's up 🎆
+# Hello
 
 Senior at the University of Michigan majoring in computer science and economics.  
 Reach me at [hbzengin@umich.edu](mailto:hbzengin@umich.edu).  
